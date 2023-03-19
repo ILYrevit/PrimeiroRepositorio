@@ -1,2 +1,3 @@
 Nome:Higor
 Idade:23
+Rotina: Acordar,comer,trablhar,almoçar,trabalhar,academia,estudar,dormir.
